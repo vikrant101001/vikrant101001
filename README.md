@@ -1,8 +1,10 @@
 ## Hi there 👋 I am Vikrant Th. 2YOE Fullstack Engineer with specialization in GenAI
 
-my portfolio: https://programming-vikrant.vercel.app/
-🔭 I’m currently building @APISEEK
-Know more about APISEEK in: https://github.com/vikrant101001/apiseek
+# my portfolio: https://programming-vikrant.vercel.app/
+
+# 🔭 I’m currently building @APISEEK
+
+# Know more about APISEEK in: https://github.com/vikrant101001/apiseek
 
 
 <!--
