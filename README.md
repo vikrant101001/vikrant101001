@@ -1,10 +1,7 @@
-## Hi there 👋 I am Vikrant Th. 2YOE Fullstack Engineer with specialization in GenAI
+## Hi there 👋 I am Vikrant Th. 3.5YOE Fullstack Engineer 
 
-# my portfolio: https://programming-vikrant.vercel.app/
+# my portfolio: https://vikthoi.vercel.app/
 
-# 🔭 I’m currently building @RAWBIFY
-
-# Know more about APISEEK in: https://github.com/vikrant101001/apiseek
 
 
 <!--
